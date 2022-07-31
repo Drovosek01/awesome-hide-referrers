@@ -4,16 +4,16 @@ Language: [Русский](README_RU.md) | English
 
 ## Content
 
-- List of services for hiding referrers
-  - Content
-  - What is this repository
-  - What is HTTP Referer
-  - FAQ
-  - Hiding Referrers vs Shortening Links
-  - Lists of services and comparison tables
-    - Alternative services
-  - Explanation of table headers
-  - Dead services
+- [List of services for hiding referrers](#list-of-services-for-hiding-referrers)
+  - [Content](#content)
+  - [What is this repository](#what-is-this-repository)
+  - [What is HTTP Referer](#what-is-http-referer)
+  - [FAQ](#faq)
+  - [Hiding Referrers vs Shortening Links](#hiding-referrers-vs-shortening-links)
+  - [Lists of services and comparison tables](#lists-of-services-and-comparison-tables)
+    - [Alternative services](#alternative-services)
+  - [Explanation of table headers](#explanation-of-table-headers)
+  - [Dead services](#dead-services)
 
 ## What is this repository
 
