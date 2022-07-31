@@ -81,6 +81,7 @@ Also, these services have several disadvantages - not all of them automatically 
 Links | Example | No confirmation needed | No site filter
 --- | --- | --- | ---
 https://vk.com/away.php?to= | https://vk.com/away.php?to=https://github.com/ | + | -
+https://adguardteam.github.io/AnonymousRedirect/redirect.html?url= | https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://github.com/ | - | ?
 https://www.youtube.com/redirect?q= | https://www.youtube.com/redirect?q=https://github.com | - | ?
 https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfilter/?url=https://github.com | - | ?
 

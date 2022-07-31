@@ -81,6 +81,7 @@ https://noref.one/ | https://noref.one/?https://github.com/ | 20s | +
 Ссылки | Пример | Не нужно подтверждение | Нет фильтра сайтов
 --- | --- | --- | ---
 https://vk.com/away.php?to= | https://vk.com/away.php?to=https://github.com/ | + | -
+https://adguardteam.github.io/AnonymousRedirect/redirect.html?url= | https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://github.com/ | - | ?
 https://www.youtube.com/redirect?q= | https://www.youtube.com/redirect?q=https://github.com | - | ?
 https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfilter/?url=https://github.com | - | ?
 
