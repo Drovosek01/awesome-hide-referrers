@@ -41,13 +41,13 @@
   - Я не планирую делать перевод на другие языки. Если кто-нибудь сделает полный перевод файлов на другой язык и создаст Pull-Request - я добавлю этот перевод, но не смогу его поддерживать (добавлять новую информацию, если это не просто галки в таблице)
 
 - По какому принципу сервисы попадают в этот список/таблицу?
-  - Все просто. Если сервис предназначен для скорытия ссылки на исходный сайт, с коротого был переход, то - мы его добавляем в таблицу с соответствующей категорией и стараемся узнать о свойствах сервиса заполняя пункты в сравнительной таблице.
+  - Все просто. Если сервис предназначен для сокрытия ссылки на исходный сайт, с которого был переход, то - мы его добавляем в таблицу с соответствующей категорией и стараемся узнать о свойствах сервиса заполняя пункты в сравнительной таблице.
 
 ## Сокрытие рефереров vs сокращение ссылок
 
 Сервисы для сокращения ссылок тоже скрывают реферера, но, все же, у сервисов для сокращения ссылок иная цель, хотя они могут использовать также и для сокрытия referer.
 
-Я постараюсь найти время и создать репозиторий с серисами для сокращения ссылок, но в этом репозитории будут только сервисы, которые скрывают referer и при использовании такого сервиса можно будет увидеть ссылку на сайт, на который будет осуществлен переход.
+Я постараюсь найти время и создать репозиторий с сервисами для сокращения ссылок, но в этом репозитории будут только сервисы, которые скрывают referer и при использовании такого сервиса можно будет увидеть ссылку на сайт, на который будет осуществлен переход.
 
 ## Списки сервисов и таблицы сравнения
 
@@ -60,7 +60,6 @@
 http://hidereferrer.net/ | http://hidereferrer.net/?https://github.com/ | + | -
 https://href.li/ | https://href.li/?https://github.com/ | + | +
 https://url.rw/ | https://url.rw/?https://github.com/ | + | +
-https://skiprefer.com/ | https://skiprefer.com/?https://github.com/ | 0.2s | +
 https://noref.io/ | https://noref.io/#https://github.com/ | + | +
 https://redirect.me/ | https://redirect.me/?https://github.com/ | + | +
 https://privatelink.de/ | https://privatelink.de/?https://github.com/ | 0.2s | +
@@ -69,7 +68,6 @@ https://anonym.to/ | https://anonym.to/?https://github.com/ | 1s | +
 https://dereferer.link/ | https://dereferer.link/?https://github.com/ | 3s | +
 https://anonymiz.com/ | https://anonymiz.com/?https://github.com/ | 6s | +
 https://www.lolinez.com/ | https://www.lolinez.com/?https://github.com/ | 20s | +
-https://www.anolink.pro/ | https://www.anolink.pro/b?link=https://github.com/ | 60s | +
 https://noref.one/ | https://noref.one/?https://github.com/ | 20s | + 
 
 ### Альтернативные сервисы
@@ -116,3 +114,5 @@ https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfil
 - https://anoni.men/
 - https://nonameno.com/proxy2/
 - https://www.web-api.eu/hidereferer
+- https://www.anolink.pro/
+- https://skiprefer.com/

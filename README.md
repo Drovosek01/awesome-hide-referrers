@@ -47,7 +47,7 @@ Answers to predictable questions.
 
 Link shortening services also hide the referrer, but still, link shortening services have a different purpose, although they can also be used to hide the referer.
 
-I will try to find time and create a repository with serices to shorten links, but in this repository there will only be services that hide the referer and when using such a service, you can see a link to the site to which the transition will be made.
+I will try to find time and create a repository with services to shorten links, but in this repository there will only be services that hide the referer and when using such a service, you can see a link to the site to which the transition will be made.
 
 ## Lists of services and comparison tables
 
@@ -60,7 +60,6 @@ Links | Example | No delay | There is SSL
 http://hidereferrer.net/ | http://hidereferrer.net/?https://github.com/ | + | -
 https://href.li/ | https://href.li/?https://github.com/ | + | +
 https://url.rw/ | https://url.rw/?https://github.com/ | + | +
-https://skiprefer.com/ | https://skiprefer.com/?https://github.com/ | 0.2s | +
 https://noref.io/ | https://noref.io/#https://github.com/ | + | +
 https://redirect.me/ | https://redirect.me/?https://github.com/ | + | +
 https://privatelink.de/ | https://privatelink.de/?https://github.com/ | 0.2s | +
@@ -69,7 +68,6 @@ https://anonym.to/ | https://anonym.to/?https://github.com/ | 1s | +
 https://dereferer.link/ | https://dereferer.link/?https://github.com/ | 3s | +
 https://anonymiz.com/ | https://anonymiz.com/?https://github.com/ | 6s | +
 https://www.lolinez.com/ | https://www.lolinez.com/?https://github.com/ | 20s | +
-https://www.anolink.pro/ | https://www.anolink.pro/b?link=https://github.com/ | 60s | +
 https://noref.one/ | https://noref.one/?https://github.com/ | 20s | + 
 
 ### Alternative services
@@ -116,3 +114,5 @@ These are services that have stopped working. Just leave them here for the story
 - https://anoni.men/
 - https://nonameno.com/proxy2/
 - https://www.web-api.eu/hidereferer
+- https://www.anolink.pro/
+- https://skiprefer.com/
