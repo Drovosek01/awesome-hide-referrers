@@ -68,7 +68,11 @@ https://anonym.to/ | https://anonym.to/?https://github.com/ | 1s | +
 https://dereferer.link/ | https://dereferer.link/?https://github.com/ | 3s | +
 https://anonymiz.com/ | https://anonymiz.com/?https://github.com/ | 6s | +
 https://www.lolinez.com/ | https://www.lolinez.com/?https://github.com/ | 20s | +
-https://noref.one/ | https://noref.one/?https://github.com/ | 20s | + 
+https://noref.one/ | https://noref.one/?https://github.com/ | 20s | +
+https://dereferer.me/ | https://dereferer.me/?https%3A//github.com/ | 5s | +
+https://xww.ro/ | https://xww.ro/?https://github.com/ | 2s | +
+https://anoni.men/ | https://anoni.men/go/https://github.com/ | 6s | +
+https://anonim.xyz/ | https://anonim.xyz/go/https://github.com/ | 6s | +
 
 ### Альтернативные сервисы
 
@@ -110,8 +114,6 @@ https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfil
 - http://safereferer.com/
 - https://blankrefer.com/
 - https://hidereferrer.com/
-- https://anonim.xyz/
-- https://anoni.men/
 - https://nonameno.com/proxy2/
 - https://www.web-api.eu/hidereferer
 - https://www.anolink.pro/
