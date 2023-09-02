@@ -86,8 +86,10 @@ https://vk.com/away.php?to= | https://vk.com/away.php?to=https://github.com/ | +
 https://adguardteam.github.io/AnonymousRedirect/redirect.html?url= | https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://github.com/ | - | ?
 https://www.youtube.com/redirect?q= | https://www.youtube.com/redirect?q=https://github.com | - | ?
 https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfilter/?url=https://github.com | - | ?
-http://forum.oszone.net/go.php?url= | http://forum.oszone.net/go.php?url=https://github.com/
-[https://brnm.ru/go?](https://brnm.ru/go?) | https://brnm.ru/go?https://github.com/
+http://forum.oszone.net/go.php?url= | http://forum.oszone.net/go.php?url=https://github.com/ | + | -
+[https://brnm.ru/go?](https://brnm.ru/go?) | https://brnm.ru/go?https://github.com/ | + | ?
+https://2baksa.ws/go/go.php?url= | https://2baksa.ws/go/go.php?url=https://github.com/ | +- | ?
+https://philka.ru/forum/go/? | https://philka.ru/forum/go/?https://github.com/ | +- | ?
 
 ## Explanation of table headers
 
