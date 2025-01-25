@@ -90,7 +90,9 @@ https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfil
 http://forum.oszone.net/go.php?url= | http://forum.oszone.net/go.php?url=https://github.com/ | + | -
 [https://brnm.ru/go?](https://brnm.ru/go?) | https://brnm.ru/go?https://github.com/ | + | ?
 https://2baksa.ws/go/go.php?url= | https://2baksa.ws/go/go.php?url=https://github.com/ | +- | ?
-https://philka.ru/forum/go/? | https://philka.ru/forum/go/?https://github.com/ | +- | ?
+[https://philka.ru/forum/go/?](https://philka.ru/forum/go/?) | https://philka.ru/forum/go/?https://github.com/ | +- | ?
+https://api.vc.ru/v2.8/redirect?to= | https://api.vc.ru/v2.8/redirect?to=https://github.com | ? | ?
+https://rutracker.org/forum/out.php?url= | https://rutracker.org/forum/out.php?url=https://github.com | ? | ?
 
 ## Explanation of table headers
 
