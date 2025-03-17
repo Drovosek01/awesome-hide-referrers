@@ -89,10 +89,10 @@ https://www.youtube.com/redirect?q= | https://www.youtube.com/redirect?q=https:/
 https://steamcommunity.com/linkfilter/?url= | https://steamcommunity.com/linkfilter/?url=https://github.com | - | ?
 http://forum.oszone.net/go.php?url= | http://forum.oszone.net/go.php?url=https://github.com/ | + | -
 [https://brnm.ru/go?](https://brnm.ru/go?) | https://brnm.ru/go?https://github.com/ | + | ?
-https://2baksa.ws/go/go.php?url= | https://2baksa.ws/go/go.php?url=https://github.com/ | +- | ?
 [https://philka.ru/forum/go/?](https://philka.ru/forum/go/?) | https://philka.ru/forum/go/?https://github.com/ | +- | ?
 https://api.vc.ru/v2.8/redirect?to= | https://api.vc.ru/v2.8/redirect?to=https://github.com | ? | ?
 https://rutracker.org/forum/out.php?url= | https://rutracker.org/forum/out.php?url=https://github.com | ? | ?
+https://hifivinyl.ru/goto/ | https://hifivinyl.ru/goto/https://github.com | + | ?
 
 ## Explanation of table headers
 
@@ -125,3 +125,4 @@ These are services that have stopped working. Just leave them here for the story
 - https://www.web-api.eu/hidereferer
 - https://www.anolink.pro/
 - https://skiprefer.com/
+- https://2baksa.ws/go/go.php?url= 
