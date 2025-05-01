@@ -93,6 +93,8 @@ http://forum.oszone.net/go.php?url= | http://forum.oszone.net/go.php?url=https:/
 https://api.vc.ru/v2.8/redirect?to= | https://api.vc.ru/v2.8/redirect?to=https://github.com | ? | ?
 https://rutracker.org/forum/out.php?url= | https://rutracker.org/forum/out.php?url=https://github.com | ? | ?
 https://hifivinyl.ru/goto/ | https://hifivinyl.ru/goto/https://github.com | + | ?
+https://jump.10-minutemail.com/? | https://jump.10-minutemail.com/?https://github.com/ | + | ?
+https://nnmstatic.win/forum/image.php?link= | https://nnmstatic.win/forum/image.php?link=https://github.com/ | + | ?
 
 ## Объяснение заголовков в таблице
 
